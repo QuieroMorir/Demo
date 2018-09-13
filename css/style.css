@@ -1,0 +1,99 @@
+body
+{
+	background-color: #cccccc;
+}
+
+.menu
+{
+	background-color: #ffffff;
+	width: 300px;
+	height: 420px;
+	margin:0 auto;
+	border-color: #000000;
+
+}
+
+.header
+{
+	background-color: #f43f44;
+	margin: 0 auto;
+	height: 50px;
+}
+
+.btns_superiores1
+{
+	background-color: #f43f44;
+	color: #ffffff;
+	margin: 0 auto;
+	width: 50px;
+	height: 50px;
+	border: none;
+}
+
+.btn_superior2
+{
+	background-color: #e61c1c;
+	margin: 0 auto;
+	width: 50px;
+	height: 50px;
+	border: none;
+}
+
+.btn
+{
+	background-color: #cc3438;
+	color: #ffffff;
+	
+	width: 50px;
+	height: 50px;
+	border: none;
+	margin: 0 auto;
+}
+
+.btn_group
+{
+	padding-top: 50px;
+	padding-left: 25px;
+}
+
+.fuente
+{
+	font-family: 'Roboto', sans-serif;
+	padding-left: 50px;
+}
+
+.row
+{
+	width: 100%;
+	overflow: hidden;
+}
+
+.derecha
+{
+	float: right;
+}
+
+.padding
+{
+	padding-bottom: 20px;
+}
+
+.uno
+{
+	background-color: blue;
+}
+
+.dos
+{
+	background-color: red;
+}
+
+.tres
+{
+	background-color: yellow;
+}
+
+.cuatro
+{
+	background-color: green;
+}
